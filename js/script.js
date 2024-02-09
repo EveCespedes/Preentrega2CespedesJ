@@ -1,14 +1,13 @@
 const productos = [
-    {id:1, nombre:"McNifica", calorias:513, precio:4550},
-    {id:2, nombre:"McPollo", calorias:353 , precio:3250},
-    {id:3, nombre:"Papas pequeñas", calorias:500, precio:1650},
-    {id:4, nombre:"Papas grandes", calorias:700, precio:1900},
-    {id:5, nombre:"Coca Cola Chica", calorias:185, precio:1300},
-    {id:6, nombre:"Coca Cola Grande", calorias:359, precio:1700},
-    {id:7, nombre:"Sundae de Dulce de Leche", calorias:257, precio:1900},
-    {id:8, nombre:"McFlurry Oreo", calorias:424, precio:2650}
+    {id:1, nombre:"Fernet", calorias:513, precio:8000},
+    {id:2, nombre:"Vodka Absolut", calorias:353 , precio:10000},
+    {id:3, nombre:"Campari", calorias:500, precio:7500},
+    {id:4, nombre:"Ron Bacardi", calorias:700, precio:6000},
+    {id:5, nombre:"Gaseosa Coca-Cola", calorias:185, precio:1900},
+    {id:6, nombre:"Jugo citric Naranja", calorias:359, precio:1700},
+    {id:7, nombre:"Gaseosa Sprite", calorias:257, precio:1900},
+    {id:8, nombre:"Agua villavisencio", calorias:424, precio:1000}
 ]
-
 
 class Carrito {
     constructor() {
